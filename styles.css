@@ -16,10 +16,15 @@ header {
 header a {
     color: #fff;
     text-decoration: none;
+    margin: 0 0.5em;
 }
 
 header a:hover {
     text-decoration: underline;
+}
+
+header i {
+    margin-right: 0.5em;
 }
 
 section {
